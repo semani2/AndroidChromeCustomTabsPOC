@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ChromeCustomTabsPOC</string>
+    <string name="strMainTitle">Chrome Custom Tabs <b>v/s</b> Web Views</string>
+    <string name="strOpenWebView">Open URL in Web View</string>
+    <string name="strOpenChromeCustomTab">Open URL in Chrome Custom Tab</string>
+    <string name="strClose">Close</string>
 </resources>
